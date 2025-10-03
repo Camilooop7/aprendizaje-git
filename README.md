@@ -1,2 +1,2 @@
 # aprendizaje-git
-This repository for practice of use 
+This repository is create for practice of use 
